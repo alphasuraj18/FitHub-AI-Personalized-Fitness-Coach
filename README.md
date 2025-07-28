@@ -66,6 +66,8 @@ fithub-ai/
 
 ☁️ Deploy to Streamlit Cloud / HuggingFace Spaces
 
+---
+## 📜 License
 
-
+MIT © 2025 Suraj kumar B.Tech CSE (AI & ML), Galgotias University
 
