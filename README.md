@@ -50,11 +50,11 @@ It will suggest a personalized workout based on your input!
 ## 📂 Folder Structure
 
 fithub-ai/
-* app.py # Main Streamlit app
-*  recommender.py # NLP + ML recommendation logic
-* workouts.csv # Dataset of fitness plans
-* requirements.txt # Python dependencies
-* README.md # This file
+* app.py (Main Streamlit app)
+*  recommender.py (NLP + ML recommendation logic)
+* workouts.csv (Dataset of fitness plans)
+* requirements.txt (Python dependencies)
+* README.md (This file)
 
 ---
 ## Future Scope
