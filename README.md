@@ -13,8 +13,6 @@ pip install -r requirements.txt
 ```bash Run the App
 streamlit run app.py
 ```
-<img width="1919" height="1010" alt="Screenshot 2025-07-28 114330" src="https://github.com/user-attachments/assets/afb87283-68ad-4c4d-b579-58b5b090d062" />
-
 ---
 ## 🚀 Demo
 
@@ -26,6 +24,10 @@ Run the app locally and try entering goals like:
 It will suggest a personalized workout based on your input!
 
 ---
+<img width="1919" height="1010" alt="Screenshot 2025-07-28 114330" src="https://github.com/user-attachments/assets/afb87283-68ad-4c4d-b579-58b5b090d062" />
+
+---
+
 
 ## 🎯 Features
 
@@ -45,7 +47,16 @@ It will suggest a personalized workout based on your input!
 4. Best matching workout is recommended
 
 ---
+## 📂 Folder Structure
 
+fithub-ai/
+├── app.py # Main Streamlit app
+├── recommender.py # NLP + ML recommendation logic
+├── workouts.csv # Dataset of fitness plans
+├── requirements.txt # Python dependencies
+├── README.md # This file
+
+---
 ## Future Scope
 🥗 Add diet recommendations
 
